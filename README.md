@@ -16,6 +16,11 @@
 
 **[Cucumber Setup in IntellijIDEA](https://docs.google.com/document/d/1T3gFNLWHJXwfzcYOclaW09WTrOyzACYXOuWxUy80ab0/edit?usp=sharing)**
 
+**[Java Programs](https://github.com/gittadesushil/EVE_programs)**
+
+**[Selenium Program in Java](https://github.com/gittadesushil/SeleniumExercise)**
+
+
 #### Interview Questions
 **[Manual Testing Interview Questions](https://docs.google.com/document/d/1_j8hDIfiL7G65T4M_D1cAb2B9pzTsQIZrWs5kUnyDSc/edit?usp=sharing)**
 
