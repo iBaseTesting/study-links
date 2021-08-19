@@ -10,7 +10,7 @@
 **[Gherkin Test cases](https://drive.google.com/drive/folders/1iB1eQ94v0HF4UjK1-Rbpb5FVyvPlP5QE?usp=sharing)**
 
 #### Automation Testing
-**[Selenium Project Setup Guide](https://drive.google.com/drive/u/0/folders/1K5d3IkmaiCAEWhqTDI6P8f55LRJwYawK)**
+**[Selenium Project Setup Guide](https://drive.google.com/file/d/18iYbX2iAU_K_bGycqkTr7g6ohtIHCTp5/view?usp=sharing)**
 
 **[Selenium Notes](https://docs.google.com/document/d/1EtsRk-tEqB_waUG9XYhdETv0BcBayxD18KT3fGD2V0c/edit?usp=sharing)**
 
