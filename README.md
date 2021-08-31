@@ -3,6 +3,9 @@
  **[Presentation slides](https://drive.google.com/drive/folders/16B0tLJH4QeJzFTXgTW2wzaxO9uK6dGEZ?usp=sharing)**
 
 #### Test cases writing	
+
+**[Shortcut keyboard Keys](https://docs.google.com/document/d/12N7N4qicROZnjdrmPemMG7Yjogq5-x8FGgkgzxNXNwU/edit?usp=sharing)**
+
 **[BDD-Gherkin Notes VS Code](https://docs.google.com/document/d/1LX4iOF2PsPLXXpUsnsVCsxr9cKslM2ciFoEVj8oNGDA/edit?usp=sharing)**
 
 **[Traditional Test cases](https://drive.google.com/drive/folders/1mJS5fb4SGRswPkVwzRYD356HQP47WqeG?usp=sharing)**
