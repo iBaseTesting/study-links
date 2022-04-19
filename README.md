@@ -27,9 +27,7 @@
 
 **[Cucumber Expressions](https://github.com/cucumber/cucumber-expressions#readme)**
 
-**[Wait Example](--------)**
-
-
+**[Wait Example](https://github.com/gittadesushil/SeleniumExercise/blob/master/src/IbaseProjectSelenium2022/src/main/java/FoodStoreApplication.java)**
 
 
 #### Interview Questions
